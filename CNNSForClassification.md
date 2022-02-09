@@ -11,3 +11,7 @@
 ## Datasets
 
 ![image](images/21.png)
+
+## Digit Recognition
+
+![image](images/22.png)

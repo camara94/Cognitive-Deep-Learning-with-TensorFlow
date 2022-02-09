@@ -19,3 +19,9 @@
 ## Training And Inference
 
 ![image](images/23.png)
+
+## Digit Recognitions
+
+![image](images/25.png)
+
+![image](images/24.png)

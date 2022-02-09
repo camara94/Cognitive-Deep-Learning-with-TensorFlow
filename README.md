@@ -22,3 +22,7 @@ The majority of data in the world is unlabeled and unstructured, for instance im
 ### Module 4 - Restricted Boltzmann Machines (RBMs)
 * Intro to RBMs
 * RBMs
+
+### Module 5 - Autoencoders
+* Intro to Autoencoders
+* Autoencoders

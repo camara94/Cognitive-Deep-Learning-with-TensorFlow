@@ -15,3 +15,7 @@
 ## Digit Recognition
 
 ![image](images/22.png)
+
+## Training And Inference
+
+![image](images/23.png)

@@ -18,3 +18,7 @@ The majority of data in the world is unlabeled and unstructured, for instance im
 * The RNN Model
 * The LSTM Model
 * Applying RNs to Language Modelling
+
+### Module 4 - Restricted Boltzmann Machines (RBMs)
+* Intro to RBMs
+* RBMs

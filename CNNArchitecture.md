@@ -48,3 +48,10 @@
 ## Fully Connected Layer
 
 ![image](images/42.png)
+## CNN Architecture
+
+![image](images/43.png)
+
+![image](images/45.png)
+
+![image](images/46.png)

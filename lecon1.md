@@ -11,3 +11,7 @@
 ## What is a data flow graph ?
 
 ![image](images/4.png)
+
+## What is the meaning of Tensor ?
+
+![image](images/6.png)

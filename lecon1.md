@@ -19,3 +19,7 @@
 ## Computation Graph ingredients
 
 ![image](images/7.png)
+
+## Architecture of Tensorflow
+
+![image](images/8.png)

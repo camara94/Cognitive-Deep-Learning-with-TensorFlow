@@ -12,3 +12,10 @@
 ## Inheritance from the Real World
 
 ![image](images/16.png)
+
+
+## A Visual Explanation
+
+![image](images/17.png)
+
+![image](images/18.png)

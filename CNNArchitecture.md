@@ -44,3 +44,7 @@
 ## CNN Architecture - ReLu - Max Pooling
 
 ![image](images/41.png)
+
+## Fully Connected Layer
+
+![image](images/42.png)

@@ -12,3 +12,8 @@ The majority of data in the world is unlabeled and unstructured, for instance im
 * Intro to CNNs
 * CNNs for Classification
 * CNN Architecture
+
+### Module 3 - Recurrent Neural Networks (RNNs)
+* The Sequence Problem
+* The RNN Model
+* The LSTM Model

@@ -7,3 +7,7 @@
 ## Why Tensorflow ?
 
 ![image](images/2.png)
+
+## What is a data flow graph ?
+
+![image](images/4.png)

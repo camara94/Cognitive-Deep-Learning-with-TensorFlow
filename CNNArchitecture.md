@@ -29,3 +29,7 @@
 ## CNN Architectures
 
 ![image](images/36.png)
+
+## Fonction d'Activation
+
+![image](images/37.png)

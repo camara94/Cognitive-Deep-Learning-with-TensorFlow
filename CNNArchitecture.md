@@ -37,3 +37,6 @@
 ## CNN Architecture - ReLu
 
 ![image](images/38.png)
+## Max Pooling
+
+![image](images/40.png)

@@ -59,3 +59,7 @@
 ## CNN On Faces
 
 ![image](images/47.png)
+
+## CNN Training
+
+![image](images/48.png)

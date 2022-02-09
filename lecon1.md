@@ -15,3 +15,7 @@
 ## What is the meaning of Tensor ?
 
 ![image](images/6.png)
+
+## Computation Graph ingredients
+
+![image](images/7.png)

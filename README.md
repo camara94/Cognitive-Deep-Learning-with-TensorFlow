@@ -7,3 +7,8 @@ The majority of data in the world is unlabeled and unstructured, for instance im
 * Intro to TensorFlow
 * Intro to Deep Learning
 * Deep Neural Networks
+
+### Module 2 - Convolutional Neural Networks (CNNs)
+* Intro to CNNs
+* CNNs for Classification
+* CNN Architecture

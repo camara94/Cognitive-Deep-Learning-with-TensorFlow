@@ -33,3 +33,7 @@
 ## Fonction d'Activation
 
 ![image](images/37.png)
+
+## CNN Architecture - ReLu
+
+![image](images/38.png)

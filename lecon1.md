@@ -23,3 +23,8 @@
 ## Architecture of Tensorflow
 
 ![image](images/8.png)
+
+
+## Why Deep Learning With Tensorflow ?
+
+![image](images/9.png)

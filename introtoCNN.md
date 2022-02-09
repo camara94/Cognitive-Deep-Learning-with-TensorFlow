@@ -8,3 +8,7 @@
 ## Original Goal of CNN
 
 ![image](images/15.png)
+
+## Inheritance from the Real World
+
+![image](images/16.png)

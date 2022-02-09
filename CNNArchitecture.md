@@ -25,3 +25,7 @@
 ## Convolution Layer
 
 ![image](images/35.png)
+
+## CNN Architectures
+
+![image](images/36.png)

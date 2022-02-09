@@ -1,6 +1,11 @@
 # Cognitive-Deep-Learning-with-TensorFlow
 The majority of data in the world is unlabeled and unstructured, for instance images, sound, and text data. Shallow neural networks cannot easily capture relevant structures within this type of data, but deep networks are capable of discovering the hidden structures. In this course, you will use the TensorFlow library to apply deep learning on different types of data to solve real world problems.
 
+## Prerequisites and Recommended skills
+### Prerequisites
+* Python programming 
+### Recommended skills prior to taking this course
+* Neural Network
 ## Learning Objectives
 In this course you will learn about:
 * Using TensorFlow for Deep Learning

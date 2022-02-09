@@ -7,3 +7,7 @@
 ## Convolutional Neural Networks (CNNS)
 
 ![image](images/20.png)
+
+## Datasets
+
+![image](images/21.png)

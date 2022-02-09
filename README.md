@@ -17,3 +17,4 @@ The majority of data in the world is unlabeled and unstructured, for instance im
 * The Sequence Problem
 * The RNN Model
 * The LSTM Model
+* Applying RNs to Language Modelling
